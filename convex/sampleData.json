@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Taylor Swift | The Eras Tour",
+    "description": "Experience Taylor Swift's record-breaking Eras Tour live!",
+    "price": 499.99,
+    "totalTickets": 100,
+    "location": "MetLife Stadium, New Jersey", 
+    "eventDate": 1723845600000,
+    "userId": "user_2bFMHkGxZPWVVyJ5QEJQxfsCkxB"
+  },
+
+  {
+    "name": "Eminem: The Death of Slim Shady (Coup de Grâce)",
+    "description": "Eminem goes head-to-head with his alter ego, Slim Shady, in an explosive live battle, confronting his past and showcasing the evolution of his iconic persona",
+    "price": 299.99,
+    "totalTickets": 75,
+    "location": "Richard Rodgers Theatre, New York",
+    "eventDate": 1721788200000,
+    "userId": "user_2dOPKmMyZRXXazL7SGLSzhsEmzD"
+  },
+  
+  {
+    "name": "Kendrick Lamar: The DAMN. Tour",
+    "description": "Relive the powerful moments from Kendrick Lamar's DAMN Tour, where the Grammy-winning artist delivered an unforgettable performance, showcasing his groundbreaking album with electrifying energy and lyricism.",
+    "price": 175.00,
+    "totalTickets": 100,
+    "location": "Madison Square Garden",
+    "eventDate": 1727222400000,
+    "userId": "user_2iRXPsQAaVYYfAQ2XLQXemvJrzI"
+  }
+]
