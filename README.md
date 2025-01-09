@@ -9,7 +9,7 @@ I've created a seamless ticketing experience that solves real-world problems for
 ### For Event-Goers
 
 Experience hassle-free ticket purchasing with:
-
+ 
 - 🎫 Live ticket availability - never miss out on an event 
 - ⚡ Fair queuing system that eliminates ticket scalping
 - 📱 Mobile-first design for on-the-go access
