@@ -6,7 +6,7 @@ Welcome to TicketHub, a cutting-edge event ticketing platform that I built to de
 
 I've created a seamless ticketing experience that solves real-world problems for both event organizers and attendees. Here's what makes it stand out:
 
-### For Event-Goers
+### For Event-Goers 
 
 Experience hassle-free ticket purchasing with:
  
