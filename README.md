@@ -1,6 +1,6 @@
 # TicketHub - Revolutionizing Event Ticketing 
 
-Welcome to TicketHub, a cutting-edge event ticketing platform that I built to demonstrate my expertise in modern web development. This project showcases my ability to create sophisticated, production-ready applications using the latest technologies.
+Welcome to TicketHub, a cutting-edge event ticketing platform that I built to demonstrate my expertise in modern web development. This project showcases my ability to create sophisticated, production-ready applications using the latest technologies. 
 
 ## What Makes TicketHub Special?
 
